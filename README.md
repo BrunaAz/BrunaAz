@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, sou Bruna Azevedo e atualmente curso Licenciatura em Ciencia da Computação
+no IF Baiano campus Senhor do Bonfim. Gosto da Pedagogia, mas também curto a parte de
+Desenvolvimento.
+Gosto de aprender coisas novas e tenho uma comunicaçao clara e objetiva.
+
 
 <!--
 **BrunaAz/BrunaAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
