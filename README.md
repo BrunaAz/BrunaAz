@@ -1,4 +1,4 @@
-## Olá, sou Bruna Azevedo e atualmente curso Licenciatura em Ciencia da Computação
+Olá, sou Bruna Azevedo e atualmente curso Licenciatura em Ciências da Computação
 no IF Baiano campus Senhor do Bonfim. Gosto da Pedagogia, mas também curto a parte de
 Desenvolvimento.
 Gosto de aprender coisas novas e tenho uma comunicaçao clara e objetiva.
